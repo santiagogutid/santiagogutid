@@ -2,8 +2,8 @@
 
 **santiagogutid/santiagogutid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Human Resources Analyst
-I' m currently learning python 
+### Human Resources Analyst
+### I' m currently learning python 
 
 You can find me on 🌎:
 - [Linkedin](https://www.linkedin.com/in/santiagogut)
