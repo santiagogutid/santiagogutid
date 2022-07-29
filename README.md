@@ -1,6 +1,6 @@
 ### Hi, I'm Santiago 👋😄
 
-![Portada-Hithub](https://user-images.githubusercontent.com/109817000/181735030-fb92ae8a-34b8-4dd5-ad20-50d174f40187.jpg)
+![Portada-Hithub](https://user-images.githubusercontent.com/109817000/181741577-49cd4988-b7dc-4d3d-916c-a3e7add4814f.jpg)
 
 Graduate Human Resources 👔
 
