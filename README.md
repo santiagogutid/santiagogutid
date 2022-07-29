@@ -4,8 +4,8 @@
 
 
 You can find me on 🌎:
-[Linkedin](https://www.linkedin.com/in/santiagogut/)
-[Instagram](https://www.instagram.com/santugut/)
+- [Linkedin](https://www.linkedin.com/in/santiagogut)
+- [Instagram](https://www.instagram.com/santugut)
 
 
 
