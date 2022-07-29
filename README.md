@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![This is me](https://github.com/santiagogutid/santiagogutid/blob/main/Sin%20t%C3%ADtulo.jpg?raw=true)
-
 **santiagogutid/santiagogutid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
