@@ -2,6 +2,15 @@
 
 ![Portada-Hithub](https://user-images.githubusercontent.com/109817000/181741577-49cd4988-b7dc-4d3d-916c-a3e7add4814f.jpg)
 
+``` js
+const midudev = {
+  pronouns = "he" "him"
+  code: [Python],
+  tools: [Photoshop, Excel],
+}
+``` 
+
+
 Graduate Human Resources 👔
 
 I'm currently learning Python 🎓:
