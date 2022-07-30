@@ -15,7 +15,7 @@ Graduate Human Resources 👔
 
 Made in Argentina living on 🇪🇺
 
-1988 👼🏽
+1988 👶🏽
 
 I'm currently learning Python 🎓:
 
