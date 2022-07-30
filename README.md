@@ -13,7 +13,7 @@ const midudev = {
 
 Graduate Human Resources 👔
 
-Made in Argentina living on 🇪🇺
+Made in Argentina living on EU
 
 1988 👶🏽
 
