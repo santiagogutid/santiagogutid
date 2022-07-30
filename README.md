@@ -13,6 +13,10 @@ const midudev = {
 
 Graduate Human Resources 👔
 
+Made in Argentina living on 🇪🇺
+
+1988 👼🏽
+
 I'm currently learning Python 🎓:
 
 - [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp)
