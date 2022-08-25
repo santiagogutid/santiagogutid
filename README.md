@@ -5,7 +5,7 @@
 ``` js
 const midudev = {
   pronouns = "he" | "him",
-  code: [Python],
+  code: [Python, HTML],
   tools: [Photoshop, RHPro, Excel],
 }
 ``` 
