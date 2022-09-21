@@ -23,6 +23,9 @@ I'm currently learning Python 🎓:
 
 - [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code)
 
+My Personal Site 🌐:
+https://santiagogutid.github.io/CV/
+
 You can find me on 🌎:
 - [Linkedin](https://www.linkedin.com/in/santiagogut)
 - [Instagram](https://www.instagram.com/santugut)
