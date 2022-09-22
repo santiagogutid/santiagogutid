@@ -4,9 +4,9 @@
 
 ``` js
 const midudev = {
-  pronouns = "he" | "him",
-  code: [Python, HTML, CSS],
-  tools: [Photoshop, RHPro, Excel],
+  pronouns = "he" | "him";
+  code: [Python, HTML, CSS];
+  tools: [Photoshop, RHPro, Excel];
 }
 ``` 
 
