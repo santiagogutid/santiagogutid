@@ -23,6 +23,8 @@ I'm currently learning Python 🎓:
 
 - [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code)
 
+- [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course)
+
 My Personal Site 🌐:
 - https://santiagogutid.github.io/CV/
 
