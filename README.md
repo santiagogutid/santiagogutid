@@ -17,7 +17,7 @@ Made in Argentina living on EU
 
 1988 👶🏽
 
-I'm currently learning Python 🎓:
+I'm currently learning Python and JavaScript 🎓:
 
 - [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp)
 
